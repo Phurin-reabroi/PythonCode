@@ -1,0 +1,28 @@
+[
+    {
+        "timestamp": "2026-05-30T14:36:25.661452",
+        "customer_email": "customer@example.com",
+        "items": {
+            "Vanilla Latte": 1,
+            "Espresso": 2
+        },
+        "subtotal": 9.75,
+        "discount_applied": 1.46,
+        "applied_coupon": "HERMES-COFFEE",
+        "total_paid": 8.29,
+        "new_coupon_issued": "HERMES-W89K32NF"
+    },
+    {
+        "timestamp": "2026-05-30T14:40:07.455037",
+        "customer_email": "rattatuye@gmail.com",
+        "items": {
+            "Mocha": 20,
+            "Americano": 1
+        },
+        "subtotal": 93.0,
+        "discount_applied": 0.0,
+        "applied_coupon": null,
+        "total_paid": 93.0,
+        "new_coupon_issued": "HERMES-767D3QSC"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "WELCOME10": {
+        "discount_pct": 10,
+        "issued_to": "admin@hermescoffee.com",
+        "issued_at": "2026-05-30T14:36:25.661441",
+        "used": false
+    },
+    "HERMES-COFFEE": {
+        "discount_pct": 15,
+        "issued_to": "customer@example.com",
+        "issued_at": "2026-05-30T14:36:25.661450",
+        "used": true,
+        "used_by": "customer@example.com",
+        "used_at": "2026-05-30T14:36:25.661451"
+    },
+    "HERMES-767D3QSC": {
+        "discount_pct": 15,
+        "issued_to": "rattatuye@gmail.com",
+        "issued_at": "2026-05-30T14:40:07.454289",
+        "used": false
+    }
+}
